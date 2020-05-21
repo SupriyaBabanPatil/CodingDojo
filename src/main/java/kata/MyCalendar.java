@@ -1,4 +1,4 @@
-package com.codingDojo;
+package kata;
 
 public class MyCalendar {
 

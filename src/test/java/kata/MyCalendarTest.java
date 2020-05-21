@@ -1,4 +1,4 @@
-package com.codingDojo;
+package kata;
 
 import org.junit.Test;
 
